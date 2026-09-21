@@ -1,5 +1,5 @@
 # VPS Optimizer 🚀
-[RU Russian version](README.RU.md)
+[Russian version](README.RU.md)
 
 ### 1. Initial Setup (Run once)
 Download, set permissions, and run:
