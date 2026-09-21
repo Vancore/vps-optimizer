@@ -1,5 +1,5 @@
 # VPS Optimizer 🚀
-[🇺🇸 English version](README.md)
+[English version](README.md)
 
 ### 1. Настройка и оптимизация (Один раз)
 Скачать, дать права и запустить:
